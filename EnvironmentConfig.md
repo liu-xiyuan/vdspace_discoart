@@ -21,7 +21,7 @@
 
 在一台纯净的Ubuntu 20 TLS上，安装好CUDA、CNN（阿里云会在重置镜像时，自动安装）等GPU服务器基本环境。
 
-PS:``nvida-smi``验证是否成功安装CUDA环境
+PS:``nvidia-smi``验证是否成功安装CUDA环境
 
 ### 安装Docker
 
@@ -140,12 +140,6 @@ screen -S discoart
 
 ```
 docker run -p 51000:8888 -v $(pwd):/home/jovyan/ -v $HOME/.cache:/root/.cache --gpus all jinaai/discoart
-```
-
-双GPU运行
-
-```
-docker run -p 51000:8888 -v $(pwd):/home/jovyan/ -v $HOME/.cache:/root/.cache --gpus '"device=0,2"' --shm-size 32g jinaai/discoart
 ```
 
 现在你可以在`http://127.0.0.1:51000` 访问
