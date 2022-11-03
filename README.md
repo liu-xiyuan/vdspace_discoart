@@ -1,4 +1,4 @@
-![Snipaste_2022-11-03_18-20-59](https://mofish-1307188483.cos.ap-chengdu.myqcloud.com/202211031821316.png)
+![Snipaste_2022-11-03_18-20-59](docs/images/202211031821316.png)
 
 ✨ **获取灵感**：加入**Disco Diffusion** 的 [Discord频道](https://discord.gg/BT8um4WGcC) 获取灵感并分享你的作品。
 
@@ -45,23 +45,23 @@ git clone https://github.com/liuxiyuan-2022/vdspace_discoart.git
 
 2. 在下方的状态栏中点击 **Jupyter 服务器：本地** ，来连接至远程 Jupyter 服务器。
 
-   ![image-20221103135717947](https://mofish-1307188483.cos.ap-chengdu.myqcloud.com/202211031357200.png)
+   ![image-20221103135717947](docs/images/202211031357200.png)
 
 3. 在上方弹出的选项框中，选择 **指定现有的服务器** 选项。并输入**正在运行服务器的 URL** 并按下 `Enter` 进行连接。
 
-   ![image-20221103140010689](https://mofish-1307188483.cos.ap-chengdu.myqcloud.com/202211031400792.png)
+   ![image-20221103140010689](docs/images/202211031400792.png)
 
-   ![image-20221103140154991](https://mofish-1307188483.cos.ap-chengdu.myqcloud.com/202211031401062.png)
+   ![image-20221103140154991](docs/images/202211031401062.png)
 
 ### 开始创作！
 
 选中 **Specify parameters** 代码块并点击左侧 **开始运行** 按钮。
 
-![image-20221103140918633](https://mofish-1307188483.cos.ap-chengdu.myqcloud.com/202211031409729.png)
+![image-20221103140918633](docs/images/202211031409729.png)
 
 在下方的**单元格输出栏**中，可以预览当前图片的渲染进度。
 
-![image-20221103141951893](https://mofish-1307188483.cos.ap-chengdu.myqcloud.com/202211031419992.png)
+![image-20221103141951893](docs/images/202211031419992.png)
 
 ## 在 Jupyter NoteBook 上使用
 
@@ -71,7 +71,7 @@ git clone https://github.com/liuxiyuan-2022/vdspace_discoart.git
 
 > 注意：每次重启 Docker 服务后，**Token**值都会改变。
 
-![image-20221103162434874](https://mofish-1307188483.cos.ap-chengdu.myqcloud.com/202211031625252.png)
+![image-20221103162434874](docs/images/202211031625252.png)
 
 > 如果**笔记本列表中**没有 **discoart.ipynb** 文件，则需要自行上传
 
@@ -81,7 +81,7 @@ git clone https://github.com/liuxiyuan-2022/vdspace_discoart.git
 
 - 选中 **Specify parameters** 代码块并点击上方**运行**按钮。
 
-![image-20221103163329763](https://mofish-1307188483.cos.ap-chengdu.myqcloud.com/202211031633858.png)
+![image-20221103163329763](docs/images/202211031633858.png)
 
 > **边框绿色**代表选中状态
 
