@@ -12,7 +12,7 @@
 
 # 部署
 
-**关于将 Discoart 部署至服务器的更多细节请查看由 [@AydenLi](https://github.com/AydenLii) 编写的[文档](https://github.com/liuxiyuan-2022/vdspace_discoart/blob/main/EnvironmentConfig.md)。** 
+**关于将 Discoart 部署至服务器的更多细节请查看由 [@AydenLi](https://github.com/AydenLii) 编写的[文档](EnvironmentConfig.md)。** 
 
 # 使用
 
