@@ -142,7 +142,15 @@ screen -S discoart
 docker run -p 51000:8888 -v $(pwd):/home/jovyan/ -v $HOME/.cache:/root/.cache --gpus all jinaai/discoart
 ```
 
+双GPU运行
+
+```
+docker run -p 51000:8888 -v $(pwd):/home/jovyan/ -v $HOME/.cache:/root/.cache --gpus '"device=0,2"' --shm-size 32g jinaai/discoart
+```
+
 现在你可以在`http://127.0.0.1:51000` 访问
+
+在此步，请将生成的Token记录好
 
 退出该新窗口``ctrl+a d``
 
