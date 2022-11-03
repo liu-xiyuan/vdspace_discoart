@@ -1,4 +1,4 @@
-![海边的灯塔](https://mofish-1307188483.cos.ap-chengdu.myqcloud.com/202211031650506.png)
+![image-20221103172026614](https://mofish-1307188483.cos.ap-chengdu.myqcloud.com/202211031720311.png)
 
 ✨ **获取灵感**：加入Disco Diffusion 的 [Discord频道](https://discord.gg/BT8um4WGcC) 获取灵感并分享你的作品。
 
