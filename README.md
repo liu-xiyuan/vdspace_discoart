@@ -1,14 +1,14 @@
-![image-20221103172026614](https://mofish-1307188483.cos.ap-chengdu.myqcloud.com/202211031720311.png)
+![Snipaste_2022-11-03_18-20-59](https://mofish-1307188483.cos.ap-chengdu.myqcloud.com/202211031821316.png)
 
-✨ **获取灵感**：加入Disco Diffusion 的 [Discord频道](https://discord.gg/BT8um4WGcC) 获取灵感并分享你的作品。
+✨ **获取灵感**：加入**Disco Diffusion** 的 [Discord频道](https://discord.gg/BT8um4WGcC) 获取灵感并分享你的作品。
 
-📒 **了解Discoart**：访问 Discoart 的 [GitHub主页](https://github.com/jina-ai/discoart) 了解更多相关知识。
+📒 **了解Discoart**：访问 **Discoart** 的 [GitHub主页](https://github.com/jina-ai/discoart) 了解更多相关知识。
+
+💡 **更多参数提示**：在`docs/`目录下存放有一些文档资源。
 
 🎨 **其他的AI创作工具**：[Midjourney](https://discord.gg/midjourney)，
 
-💡 **更多参数细节**：在`docs/`目录下存放有一些关于 Disco Diffusion 的文档资源。
-
-
+🛠️ **图片修复**：使用 [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases/v3.96.01) 来增强图像画质。
 
 # 部署
 
@@ -26,7 +26,7 @@ git clone https://github.com/liuxiyuan-2022/vdspace_discoart.git
 
 ## 在 VS Code 上使用
 
-> Visual Studio Code  是一个轻量级但功能强大的源代码编辑器，可在您的桌面上运行，适用于 Windows、macOS 和 Linux。   它内置了对  JavaScript、TypeScript 和 Node.js 的支持，并为其他语言和运行时（如  C++、C#、Java、Python、PHP、Go、.NET）提供了丰富的扩展生态系统。
+> Visual Studio Code  是一个轻量级但功能强大的源代码编辑器，适用于 Windows、macOS 和 Linux。并为其他语言和运行时（如  C++、C#、Java、Python、PHP、Go、.NET）提供了丰富的扩展生态系统。
 
 ### 安装 VS Code
 
@@ -91,4 +91,12 @@ git clone https://github.com/liuxiyuan-2022/vdspace_discoart.git
 
 # 资源链接
 
-- 
+- [Disco Diffusion Cheatsheet v0.3](https://docs.google.com/document/d/1l8s7uS2dGqjztYSjPpzlmXLjl5PM3IGkRWI3IiCuK7g/edit)
+- [EZ Charts - Diffusion Parameter Studies ](https://docs.google.com/document/d/1ORymHm0Te18qKiHnhcdgGp-WSt8ZkLZvow3raiu2DVU/edit#)
+- [Disco Diffusion **GitHub**](https://github.com/alembics/disco-diffusion)
+- [Disco Diffusion **Colab**](https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb#scrollTo=TitleTop)
+- [ArtStation](https://www.artstation.com/?sort_by=trending)
+- [Disco Diffusion 70+ Artist Studies](https://weirdwonderfulai.art/resources/disco-diffusion-70-plus-artist-studies/)
+- [A Traveler’s Guide to the Latent Space](https://sweet-hall-e72.notion.site/A-Traveler-s-Guide-to-the-Latent-Space-85efba7e5e6a40e5bd3cae980f30235f#e122e748b86e4fc0ad6a7a50e46d6e10)
+- [Disco Diffusion Illustrated Settings](https://coar.notion.site/Disco-Diffusion-Illustrated-Settings-cd4badf06e08440c99d8a93d4cd39f51)
+- [Coar’s Disco Diffusion Guide](https://coar.notion.site/coar/Coar-s-Disco-Diffusion-Guide-3d86d652c15d4ca986325e808bde06aa#8a3c6e9e4b6847afa56106eacb6f1f79)
