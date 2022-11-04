@@ -4,7 +4,7 @@
 
 📒 **了解Discoart**：访问 **Discoart** 的 [GitHub主页](https://github.com/jina-ai/discoart) 了解更多相关知识。
 
-💡 **更多参数提示**：在`docs/`目录下存放有一些文档资源。
+💡 **更多参数提示**：查看`docs/`目录下的文档资源或者访问[资源链接](#资源链接)。
 
 🎨 **其他的AI创作工具**：[Midjourney](https://discord.gg/midjourney)，
 
@@ -12,7 +12,7 @@
 
 # 部署
 
-**关于将 Discoart 部署至服务器的更多细节请查看由 [@AydenLi](https://github.com/AydenLii) 编写的[文档](EnvironmentConfig.md)。** 
+**关于将 Discoart 部署至服务器的更多细节请查看由 [@AydenLi](https://github.com/AydenLii) 编写的[文档](INSTALL.md)。** 
 
 # 使用
 
@@ -85,7 +85,7 @@ git clone https://github.com/liuxiyuan-2022/vdspace_discoart.git
 
 > **边框绿色**代表选中状态
 
-##关于参数设置的更多细节
+## 关于参数设置的更多细节
 
 **关于全部参数更深入的解释请查看[这里]()，在那里你将看到更多的例子。**
 
