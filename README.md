@@ -22,7 +22,7 @@
 git clone https://github.com/liuxiyuan-2022/vdspace_discoart.git
 ```
 
-你可以使用 [Jupyter notebook](##在 Jupyter NoteBook 上使用) 或者 [VS Code](##在 VS Code 上使用) 运行 Discoart 。
+你可以使用 [Jupyter notebook](##在-jupyter-notebook-上使用) 或者 [VS Code](##在-vs-code-上使用) 运行 Discoart 。
 
 ## 在 VS Code 上使用
 
