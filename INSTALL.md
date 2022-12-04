@@ -7,7 +7,8 @@
 - Docker的基本操作
 - Linux基本命令
 - Jupyter Notebook
-- screen命令
+- [screen](https://www.runoob.com/linux/linux-comm-screen.html)命令
+- xShell工具
 
 ## 实际操作
 
@@ -23,7 +24,7 @@
 
 PS:``nvidia-smi``验证是否成功安装CUDA环境
 
-### 安装Docker
+### 安装Docker(如果已安装直接跳转到下一步)
 
 基本工具安装
 
@@ -136,17 +137,23 @@ sudo apt-get install nvidia-container-runtime
 screen -S discoart
 ```
 
+![image-20221204161419881](./docs/images/INSTALL/image-20221204161419881.png)
+
 运行
 
 ```
 docker run -p 51000:8888 -v $(pwd):/home/jovyan/ -v $HOME/.cache:/root/.cache --gpus all jinaai/discoart
 ```
 
-现在你可以在`http://127.0.0.1:51000` 访问
+现在你可以在`http://127.0.0.1:51000` 访问，公网访问将`127.0.0.1`替换为自己的服务器地址
+
+![image-20221204161520218](./docs/images/INSTALL/image-20221204161520218.png)
 
 在此步，请将生成的Token记录好
 
 退出该新窗口``ctrl+a d``
+
+![image-20221204161658328](./docs/images/INSTALL/image-20221204161658328.png)
 
 # 联系方式
 
